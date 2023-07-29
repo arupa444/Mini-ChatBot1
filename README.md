@@ -7,6 +7,6 @@ Step 3: After cleansing we did some preprocessing like lemmatizing,stemmming,rem
 Step 4: Then tokenization was done which converting sentences into words etc.<br>
 Step 5: After this we splitted the data for training using train_test_split<br>
 Step 6: After training we used pipeline for vectorization and training purpose<br>
-Step 7: For training Multiomial Naive Bayes theorem was used<br><br>
+Step 7: For training Multiomial Naive Bayes theorem was used<br>
 
 The accuracy is not good but this is our first time making so we will update the improvements and please raise if there is anything you can help us . 
